@@ -1,3 +1,8 @@
+@media (max-widtx: 992px) {
+	.Humburgers {
+		display: none;
+	}
+}
 @media (min-width: 1200px) {
 	.Humburgers {
 		display: none;
