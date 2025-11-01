@@ -1,6 +1,6 @@
 @media (min-width: 1200px) {
 	.Humburgers {
-		display: none;
+		display: block;
 	}
     .modern h1 {
         font-size: 72px;
