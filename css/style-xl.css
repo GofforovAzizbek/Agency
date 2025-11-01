@@ -335,7 +335,7 @@
         bottom: 245px;
     }
     .block17-map {
-        background-image: url("images/map.png");
+        background-image: url("../img/map.png");
         background-size: cover;
         background-position: center;
         height: 720px;
